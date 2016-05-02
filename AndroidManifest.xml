@@ -15,7 +15,24 @@
 			android:label="LockClock (color)" >
 			<intent-filter>
 				<action android:name="org.omnirom.WeatherIconPack" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
 
+		<activity
+			android:name=".jayrodrandom"
+			android:label="JayRod" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+
+		<activity
+			android:name=".sean"
+			android:label="Kronic 3.0 by Sean Grondin" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>
@@ -25,17 +42,6 @@
 			android:label="Nature" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
-
-				<category android:name="android.intent.category.DEFAULT" />
-			</intent-filter>
-		</activity>
-
-		<activity
-			android:name=".poly"
-			android:label="Poly" >
-			<intent-filter>
-				<action android:name="org.omnirom.DaylightHeaderPack1" />
-
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>
@@ -45,27 +51,33 @@
 			android:label="Nature (random)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
-
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>
 
 		<activity
-			android:name=".jayrodrandom"
-			android:label="JayRod (random)" >
+			android:name=".poly"
+			android:label="Poly" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
-
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>
 
 		<activity
 			android:name=".paulrandom"
-			android:label="PaulWalls (random)" >
+			android:label="PaulWalls Kronic 2.0" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
 
+		<activity
+			android:name=".paul2random"
+			android:label="PaulWalls Kronic 3.0" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
 				<category android:name="android.intent.category.DEFAULT" />
 			</intent-filter>
 		</activity>

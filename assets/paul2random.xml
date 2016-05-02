@@ -20,25 +20,12 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="nature03" />
-    <random_header image="nature16" />
-    <random_header image="nature17" />
-    <random_header image="nature18" />
-    <random_header image="nature19" />
-    <random_header image="nature20" />
-    <random_header image="nature21" />
-    <random_header image="nature14" />
-    <random_header image="nature06" />
-    <random_header image="nature02" />
-    <random_header image="nature09" />
-    <random_header image="nature01" />
-    <random_header image="nature13" />
-    <random_header image="nature04" />
-    <random_header image="nature08" />
-    <random_header image="nature07" />
-    <random_header image="nature05" />
-    <random_header image="nature10" />
-    <random_header image="nature12" />
-    <random_header image="nature15" />
-    <random_header image="nature11" />
+    <random_header image="Aosip_new_0" />
+    <random_header image="Aosip_new_1" />
+    <random_header image="Aosip_new_2" />
+    <random_header image="Aosip_new_3" />
+    <random_header image="Aosip_new_4" />
+    <random_header image="Aosip_new_5" />
+    <random_header image="Aosip_new_6" />
+    <random_header image="Aosip_new_7" />
 </daylight_headers>
