@@ -20,16 +20,16 @@ entry can only be only one of hour or day/month type
 day_header entries have a higher priority then hour entries -->
 
 <daylight_headers>
-    <random_header image="KR3-00" />
-    <random_header image="KR3-01" />
-    <random_header image="KR3-02" />
-    <random_header image="KR3-03" />
-    <random_header image="KR3-04" />
-    <random_header image="KR3-05" />
-    <random_header image="KR3-06" />
-    <random_header image="KR3-07" />
-    <random_header image="KR3-08" />
-    <random_header image="KR3-09" />
-    <random_header image="KR3-10" />
-    <random_header image="KR3-11" />
+    <random_header image="kr3_0" />
+    <random_header image="kr3_01" />
+    <random_header image="kr3_02" />
+    <random_header image="kr3_03" />
+    <random_header image="kr3_04" />
+    <random_header image="kr3_05" />
+    <random_header image="kr3_06" />
+    <random_header image="kr3_07" />
+    <random_header image="kr3_08" />
+    <random_header image="kr3_09" />
+    <random_header image="kr3_10" />
+    <random_header image="kr3_11" />
 </daylight_headers>
