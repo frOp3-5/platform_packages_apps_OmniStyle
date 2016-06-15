@@ -26,6 +26,4 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="aosip_new_3" />
     <random_header image="aosip_new_4" />
     <random_header image="aosip_new_5" />
-    <random_header image="aosip_new_6" />
-    <random_header image="aosip_new_7" />
 </daylight_headers>

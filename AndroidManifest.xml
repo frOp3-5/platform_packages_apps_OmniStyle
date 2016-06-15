@@ -57,7 +57,7 @@
 
 		<activity
 			android:name=".paul2random"
-			android:label="PaulWalls Kronic 3.0" >
+			android:label="PaulWalls Kronic SkyPack 3.0" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 				<category android:name="android.intent.category.DEFAULT" />
