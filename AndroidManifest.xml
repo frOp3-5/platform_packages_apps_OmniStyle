@@ -20,35 +20,8 @@
 		</activity>
 
 		<activity
-			android:name=".jayrodrandom"
-			android:label="JayRod" >
-			<intent-filter>
-				<action android:name="org.omnirom.DaylightHeaderPack1" />
-				<category android:name="android.intent.category.DEFAULT" />
-			</intent-filter>
-		</activity>
-
-		<activity
 			android:name=".sean"
 			android:label="Kronic 3.0 by Sean Grondin" >
-			<intent-filter>
-				<action android:name="org.omnirom.DaylightHeaderPack1" />
-				<category android:name="android.intent.category.DEFAULT" />
-			</intent-filter>
-		</activity>
-
-		<activity
-			android:name=".nature"
-			android:label="Nature" >
-			<intent-filter>
-				<action android:name="org.omnirom.DaylightHeaderPack1" />
-				<category android:name="android.intent.category.DEFAULT" />
-			</intent-filter>
-		</activity>
-
-		<activity
-			android:name=".naturerandom"
-			android:label="Nature (random)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 				<category android:name="android.intent.category.DEFAULT" />
@@ -65,8 +38,17 @@
 		</activity>
 
 		<activity
-			android:name=".poly"
-			android:label="Poly" >
+			android:name=".punch"
+			android:label="Kronic Punch by Rinky McBally" >
+			<intent-filter>
+				<action android:name="org.omnirom.DaylightHeaderPack1" />
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</activity>
+
+		<activity
+			android:name=".naturerandom"
+			android:label="Nature (random)" >
 			<intent-filter>
 				<action android:name="org.omnirom.DaylightHeaderPack1" />
 				<category android:name="android.intent.category.DEFAULT" />
